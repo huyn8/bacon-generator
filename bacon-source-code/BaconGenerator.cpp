@@ -1,10 +1,7 @@
 /*
 * Author: Huy Nguyen
-* Professor Michael Stiber
 * Kevin Bacon Game
 * Version 1
-* 2/5/2021
-* CSS 343
 *
 * BaconGenerator is used to process the input .txt from the Driver
 * and generates a Kevin Bacon number accordingly
