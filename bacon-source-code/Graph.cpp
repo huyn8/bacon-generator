@@ -1,10 +1,7 @@
 /*
 * Author: Huy Nguyen
-* Professor Michael Stiber
 * Kevin Bacon Game
 * Version 1
-* 2/5/2021
-* CSS 343
 *
 * Graph2 is used to create a network relationships between actors
 * and actresses for the calculation of a Kevin Bacon number accordingly
