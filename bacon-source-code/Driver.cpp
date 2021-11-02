@@ -1,10 +1,7 @@
 /*
 * Author: Huy Nguyen
-* Professor Michael Stiber
 * Kevin Bacon Game
 * Version 1
-* 2/5/2021
-* CSS 343
 * 
 * This Driver is used to run the program by creating a
 * BaconGenerator object and calling the
